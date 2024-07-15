@@ -9,7 +9,7 @@ The main objective is to transform the raw data into standardized format. This t
 
 The inital steps invovle in
 
-   1.Importing pandas library
-   2.Loading the excel file and converting them into a Dataframe.
+   * Importing pandas library
+   * Loading the excel file and converting them into a Dataframe.
 
 
