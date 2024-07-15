@@ -9,6 +9,6 @@ Loading the Data
 
 The inital steps invovles and
 
-   *Importing pandas library
-   *Loading the excel file and converting them into a Dataframe.
+   Importing pandas library
+   Loading the excel file and converting them into a Dataframe.
 
