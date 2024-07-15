@@ -7,8 +7,9 @@ The main objective is to transform the raw data into standardized format. This t
 
 Loading the Data 
 
-The inital steps invovles and
+The inital steps invovle in
 
    Importing pandas library
    Loading the excel file and converting them into a Dataframe.
+
 
